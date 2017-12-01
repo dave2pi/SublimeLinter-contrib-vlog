@@ -1,0 +1,10 @@
+SublimeLinter-contrib-vlog
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to Modelsim vlog.
+
+** IMPORTANT! **
+
+Before this plugin will activate, you *must*
+follow the installation instructions here:
+
+https://github.com/dave2pi/SublimeLinter-contrib-vlog
