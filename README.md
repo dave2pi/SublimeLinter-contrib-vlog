@@ -3,7 +3,7 @@ SublimeLinter-contrib-vlog
 
 [![Build Status](https://travis-ci.org/dave2pi/SublimeLinter-contrib-vlog.svg?branch=master)](https://travis-ci.org/dave2pi/SublimeLinter-contrib-vlog)
 
-This linter plugin for [SublimeLinter][docs] provides an interface to the Modelsim vlog binary. It will be used with files that have the “VHDL” syntax.
+This linter plugin for [SublimeLinter][docs] provides an interface to the Modelsim vlog binary. It will be used with files that have "SystemVerilog" or “Verilog” syntax.
 
 ## Installation
 SublimeLinter 3 must be installed in order to use this plugin. If SublimeLinter 3 is not installed, please follow the instructions [here][installation].
